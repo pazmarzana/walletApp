@@ -1,4 +1,5 @@
-#Run database migrations
+#Run Database Migrations
 php artisan migrate:fresh
-#run seeds
+
+#Run seeders
 php artisan db:seed
