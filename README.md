@@ -1,1 +1,1 @@
-programita para seguir aprendiendo React siguiendo tutorial
+programita para seguir aprendiendo React+Laravel siguiendo tutorial
